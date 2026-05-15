@@ -1,11 +1,9 @@
-**Hi, I'm Ais — Web Developer 👋**
+**Hi, I'm Khalis — Cybersecurity student👋**
 
-💻 Frontend enthusiast learning HTML, CSS, JavaScript, and Python</br>
-🎨 Passionate about building responsive, accessible, and user-friendly websites</br>
-🚀 Currently working on personal portfolio and real-world web projects</br>
-📚 Always learning — from layout techniques to modern JavaScript frameworks</br>
-🌐 Open to collaboration on web-based apps and landing page design</br>
-
+🔐 Cybersecurity student in Kuala lumpur(malaysia) | CS enthusiast
+🚀 Currently crafting my portfolio & real-world web projects
+🌐 Open to collab on web apps & landing pages
+📚 Always learning, always building
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
