@@ -1,6 +1,6 @@
 **Hi, I'm Khalis — Cybersecurity student👋**
 
-🔐 Cybersecurity student in Kuala lumpur(malaysia) | CS enthusiast
+🔐 Cybersecurity student in Kuala lumpur(malaysia) | CS enthusiast</br>
 🚀 Currently crafting my portfolio & real-world web projects
 🌐 Open to collab on web apps & landing pages
 📚 Always learning, always building
