@@ -1,4 +1,4 @@
-**Hi, I'm Khalis — Cybersecurity student👋**
+**Hi, I'm icedab — Cybersecurity student👋**
 
 🔐 Cybersecurity student in Kuala lumpur(malaysia) | CS enthusiast</br>
 🚀 Currently crafting my portfolio & real-world web projects</br>
@@ -20,7 +20,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KhalisAlfaruq) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ais_dep) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
